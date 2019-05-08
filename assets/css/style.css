@@ -1,0 +1,36 @@
+#wpwrap {
+  background: #f1f1f1;
+}
+
+#wpbody-content {
+  padding-top: 20px;
+  padding-right: 20px;
+}
+
+#my-geocaches_wrapper,
+#found-geocaches_wrapper {
+  clear: both;
+  margin-top: 100px;
+}
+
+#map {
+  height: 575px;
+  margin-top: 15px;
+}
+
+a img {
+  margin-right: 15px;
+}
+
+div#footer {
+  position: fixed;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  width: 100%;
+  height: 18px;
+  margin: 0;
+  padding: 6px;
+  z-index: 2;
+  background: WHITE;
+}
